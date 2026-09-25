@@ -139,4 +139,4 @@ KPI values may change when filters are applied or the source data is refreshed.
 
 **Double down on Health & Beauty** as a category, given its strong revenue share — consider expanding related product lines or supplier relationships.
 
-**Push card-linked promotions**, since credit card is the dominant payment method — a "pay with card, get X% cashback" campaign could increase average order value.
+**Push card-linked promotions**, since credit card is the dominant payment method, card-linked promotions or loyalty offers could be an effective way to increase average order value, since this channel already has strong customer adoption.
